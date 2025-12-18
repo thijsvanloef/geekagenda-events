@@ -1,4 +1,4 @@
-# GeekAgenda Open Events
+# GeekAgenda Events
 
 This repository provides open event data for geek-related conventions,
 meetups and festivals in the Netherlands and Europe.
