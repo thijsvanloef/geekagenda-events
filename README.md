@@ -1,16 +1,31 @@
-# GeekAgenda Events
+# GeekAgenda Event Data
 
-This repository provides open event data for geek-related conventions,
-meetups and festivals in the Netherlands and Europe.
+Deze repository beschrijft de structuur en werkwijze van
+handmatig samengestelde geek-evenementen die worden gepubliceerd op
+GeekAgenda.nl.
 
-The data is curated and maintained by GeekAgenda.nl.
+Alle evenementen worden handmatig ingevoerd en gecontroleerd via
+de WordPress-plugin *The Events Calendar* om kwaliteit en relevantie
+te waarborgen.
 
-## Data format
-- JSON
-- CSV
+## Soorten evenementen
+- Anime & Aziatisch
+- Board & Cardgames
+- Fantasy & Middeleeuwen
+- Gaming
+- Hobby & Creatief
+- Popcultuur & Comic Cons
 
-## Source
-https://geekagenda.nl
+## Bron
+[https://geekagenda.nl](https://geekagenda.nl/?utm_source=github&utm_medium=social&utm_campaign=self-promotion)
 
-## License
-CC BY 4.0
+## Voorbeeld evenement
+https://geekagenda.nl/event/japan-expo-paris/
+
+## Doel
+Deze repository is bedoeld voor ontwikkelaars, onderzoekers en
+communityleden die inzicht willen krijgen in hoe geek-evenementen
+worden gestructureerd.
+
+## Licentie
+De inhoud van evenementen blijft eigendom van de betreffende organisatoren.
